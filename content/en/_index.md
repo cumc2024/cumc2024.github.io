@@ -17,5 +17,3 @@ Registration to CUMC 2024 now! Registration ends on July 1st. Find the registrat
 ## Schedule {#schedule}
 
 {{< agenda >}}
-
-A more comprehensive schedule will be up shortly.
