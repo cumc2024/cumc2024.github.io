@@ -5,13 +5,13 @@ date = 2024-03-20T18:16:46-07:00
 
 ## Things to Do
 
-*Vancouver is a city that shuts down very early. Most places usually be closed much earlier than you would expect, pretty much nothing is open by midnight, so check closing times beforehand.*
+*Vancouver is a city that shuts down very early. Most places usually close much earlier than you would expect, pretty much nothing is open by midnight, so check closing times beforehand.*
 
 ### Fun Things to Do in UBC
 
 - [Beaty Biodiversity Museum](https://maps.app.goo.gl/3ner66NM7rtU3ZYQ9)
 - [UBC Rose Garden](https://maps.app.goo.gl/cfJBctS9KsoABTVY8)
-- [Wreck Beach](https://maps.app.goo.gl/yuLtrz7MUJZUygB28): This beach is right next to UBC campus, with stairs leading down right behind Place Vanier. It is much more isolated and in nature than other beaches here, and has great summer sunsets. (**DISCLAIMERS**: This is a clothing-optional beach; the majority of people who go are clothed, however, there are people who are not, so do ont be rude and be mindful of who is in the background of any photos you are taking. This beach is not accessible to those with mobility impairments.) The beach closes right after sunset, whenever that is.
+- [Wreck Beach](https://maps.app.goo.gl/yuLtrz7MUJZUygB28): This beach is right next to UBC campus, with stairs leading down right behind Place Vanier. It is much more isolated and in nature than other beaches here, and has great summer sunsets. (**DISCLAIMERS**: This is a clothing-optional beach; the majority of people who go are clothed, however, there are people who are not, so do not be rude and be mindful of who is in the background of any photos you are taking. This beach is not accessible to those with mobility impairments.) The beach closes right after sunset, whenever that is.
 - [Museum of Anthropology](https://maps.app.goo.gl/LG2vTAj3ojzHu5eUA) at UBC
 - [Cecil Green Park House](https://maps.app.goo.gl/wfVq8NvpWn7vGP6GA): This is partially a graduate student residence, which is not accessible by the public. We request that you respect their privacy. There is also a chance that the main house is booked out for a private event, but if it’s not this is a very nice place to walk around in.
 - [Nitobe Memorial Garden](https://maps.app.goo.gl/VkpvBLWGEzeutumQ8): UBC's own Japanese garden! Open Tuesday - Sunday, admission is $7.00.
@@ -21,10 +21,11 @@ date = 2024-03-20T18:16:46-07:00
 ### Fun things to do in Vancouver
 
 - [Vancouver Aquarium](https://maps.app.goo.gl/PUrMcmrbctmDpukQA)
-- [Vancouver Art Gallery](https://maps.app.goo.gl/Eq25qMnZy4CrF88W6) [Granville Island](https://maps.app.goo.gl/TQoBYhFqcd1QyizD7): This place is considered as a bit of a tourist trap, but it has some nice food, and the views are great.
+- [Vancouver Art Gallery](https://maps.app.goo.gl/Eq25qMnZy4CrF88W6)
+- [Granville Island](https://maps.app.goo.gl/TQoBYhFqcd1QyizD7): This place is considered as a bit of a tourist trap, but it has some nice food, and the views are great.
 - [Khatsahlano Street Party](https://maps.app.goo.gl/TeK85PThPNHdzGKB7): Annual street party in Vancouver, if you are here early for the weekend before the conference.
 - You can make the journey to **Richmond** (or spend time there before your flight, as it is much closer to the airport).
-  - You can do some shopping, or try some of the great Asian restuarants there. Easy places to eat are ff (these places don't serve your typical food court food) although there are many other sit-down restaurants worth checking out as well. Things are a little cheaper, but many places here only take cash
+  - You can do some shopping, or try some of the great Asian restuarants there. Easy places to eat are [Aberdeen Center Food Court](https://maps.app.goo.gl/aXg7SbCE3m9WSegy8) and [Richmond Public Market](https://maps.app.goo.gl/mypkUZXYtMpxtMtu6) (these places don't serve your typical food court food) although there are many other sit-down restaurants worth checking out as well. Things are a little cheaper, but many places here only take cash
   - You can also check out the[Richmond Night Market](https://maps.app.goo.gl/EJ4AuPNuXrxSL2QS8). Note that this place is considered to be very overpriced, but can make for a memorable experience.
   - To prevent confusion for transit: southbound trains alternate between going towards Richmond ("Richmond Brighouse") and towards the airport ("YVR Airport"). They split at the Bridgeport station.
 
